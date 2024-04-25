@@ -1,0 +1,44 @@
+body {    
+    background-color: #0bc11a82;
+    font-family: 'Courier New', Courier, monospace;
+}
+.nav_Pivo {
+    font-size: 30px;
+    font-weight: bold;
+}
+.container {
+    margin-top: 10px;
+}
+.row {
+}
+.col-8 {
+    color :#0a17cace 
+}
+.col-4 {
+}
+.col-3.nav_logo {
+}
+.col-9 {
+}
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.img_size {
+}
+.title_photo {
+    text-align: center;
+}
+.my_photo {
+    background: url(../my_photo/picture.jpg) no-repeat center center;
+    background-size: 110%;
+    width: 523px;
+    height: 558px;
+}
+.nav_logo {
+    background: url(../my_photo/pivo.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 93px;
+    height: 94px;
+}
